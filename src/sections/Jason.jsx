@@ -28,8 +28,8 @@ const Jason = () => {
     <section className="jason">
       <div className="max-w-lg jason-content">
         <h1>Jason Duval</h1>
-        <h2>Jason wants an easy life, but things just keep getting harder.</h2>
-        <p>Jason grew up around grifters and crooks. After a stint in the Army trying to shake off his troubled teens, he found himself in the Keys doing what he knows best, working for local drug runners. It might be time to try something new.</p>
+        <h2>Jason veut une vie tranquille, mais les choses ne cessent de se compliquer.</h2>
+        <p>Jason a grandi entouré d'arnaqueurs et de voyous. Après un passage dans l'Armée pour tenter de tourner la page de son adolescence chaotique, il s'est retrouvé dans les Keys à faire ce qu'il sait faire de mieux : bosser pour des trafiquants locaux. Il est peut-être temps d'essayer autre chose.</p>
 
         <div className="jason-2">
           <img src="/images/jason-2.webp" />

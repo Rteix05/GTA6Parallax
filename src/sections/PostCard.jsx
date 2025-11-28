@@ -37,7 +37,7 @@ const PostCard = () => {
         />
 
         <button className="group-hover:bg-yellow transation duration-700">
-          Explore Leonida Keys
+          Explorer les Keys de Leonida
         </button>
       </div>
     </section>
