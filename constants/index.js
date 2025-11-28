@@ -28,4 +28,4 @@ export const useMaskSettings = () => {
     maskPos: "50% 22%",
     maskSize: "20% 20%",
   };
-};
+}; //paramètres mobile responsive
